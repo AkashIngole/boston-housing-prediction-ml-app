@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run penguins-app.py
+web: sh setup.sh && streamlit run boston-price-ml-app.py
